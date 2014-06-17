@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Teste Git com Eclipse PPV mais outra</title>
+<title>Teste Git com Eclipse PPV mais outra aqui</title>
 </head>
 
 <body>

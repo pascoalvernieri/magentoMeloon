@@ -11,7 +11,7 @@
             <label>Arquivo Integração Estoque:</label>
 				<input type="file" id="arquivo" name="arquivo" />
 					</p>
-				<input type="submit"  title="Enviar" value="Enviar" />
+				
         </form>
 </body>
 </html>

@@ -8,7 +8,7 @@
 <body>
 
         <form name="form" action="updateEstoque.php" method="post" enctype="multipart/form-data">
-            <label>Arquivo Integracao Estoque:</label>
+            <label>Arquivo para integração Estoque:</label>
 				<input type="file" id="arquivo" name="arquivo" />
 					</p>
 				

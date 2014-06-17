@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
+<title>Teste Git</title>
 </head>
 
 <body>
 
         <form name="form" action="updateEstoque.php" method="post" enctype="multipart/form-data">
-            <label>Arquivo Integração Estoque:</label>
+            <label>Arquivo Integracao Estoque:</label>
 				<input type="file" id="arquivo" name="arquivo" />
 					</p>
 				

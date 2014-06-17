@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Teste Git com Eclipse</title>
+<title>Teste Git com Eclipse PPV</title>
 </head>
 
 <body>
 
         <form name="form" action="updateEstoque.php" method="post" enctype="multipart/form-data">
-            <label>Arquivo para integração Estoque:</label>
+            <label>Arquivo para integraï¿½ï¿½o Estoque:</label>
 				<input type="file" id="arquivo" name="arquivo" />
 					</p>
 				
